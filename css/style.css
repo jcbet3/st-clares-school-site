@@ -94,3 +94,4 @@ nav a[aria-current="page"]{text-decoration:underline;text-decoration-thickness:3
 }
 .brand{display:flex;align-items:center;gap:12px}
 .brand img{width:52px;height:52px;flex:none}
+.about{grid-template-rows:auto 1fr}
